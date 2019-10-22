@@ -1,0 +1,4 @@
+rootProject.name = 'Java-Collect-Digits-Tutorial'
+// TODO: Will be removed once JitPack is configured
+include ':java-sdk'
+project(':java-sdk').projectDir = new File('../../../sdks/java-sdk')

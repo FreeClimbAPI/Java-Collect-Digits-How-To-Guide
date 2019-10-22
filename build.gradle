@@ -5,11 +5,6 @@
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds
  */
 
-// allprojects {
-//     repositories {
-//         mavenCentral()
-//     }
-// }
 buildscript {
     repositories {
         mavenCentral()
@@ -43,7 +38,8 @@ targetCompatibility = 1.8
 dependencies {
     compile "org.springframework.boot:spring-boot-starter-web"
     testCompile "junit:junit"
-    compile 'com.github.PersephonyAPI:java-sdk:1.0.0'
+    // TODO: replace with new reference to JitPack (EX: compile 'com.github.PersephonyAPI:java-sdk:1.0.0')
+    compile project(':java-sdk')
 }
 sourceSets {
     main {
