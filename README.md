@@ -1,6 +1,6 @@
 # Java - Collect Digits Tutorial
 
-This project serves as a guide to help you build an application with FreeClimb. Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this turorial on [FreeClimb.com](https://docs.freeclimb.com/docs/collect-digits-1#section-java) Specifically, the project will:
 
 - Get digits typed by the caller
 - Use their response to respond with the selection
