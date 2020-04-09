@@ -38,7 +38,7 @@ targetCompatibility = 1.8
 dependencies {
     implementation "org.springframework.boot:spring-boot-starter-web"
     testImplementation "junit:junit"
-    implementation 'com.github.FreeClimbAPI:java-sdk:2.0.0'
+    implementation 'com.github.FreeClimbAPI:java-sdk:3.0.0'
 }
 sourceSets {
     main {
