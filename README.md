@@ -24,3 +24,7 @@ To get started using a FreeClimb account, follow the instructions [here](https:/
    ```bash
    $ gradle build && java -Dserver.port=3000 -jar build/libs/gs-spring-boot-0.1.0.jar
    ```
+
+## Getting Help
+
+If you are experiencing difficulties, [contact support](https://freeclimb.com/support).
