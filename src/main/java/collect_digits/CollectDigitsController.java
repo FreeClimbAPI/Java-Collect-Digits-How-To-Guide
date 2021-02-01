@@ -94,7 +94,7 @@ public class CollectDigitsController {
       getDigits.setPrompts(prompts);
 
       // Add PerCL getdigits script to PerCL container
-      script.add(getDigits); // ISSUES ARISE
+      script.add(getDigits);
     }
 
     // Respond with the PerCL script
