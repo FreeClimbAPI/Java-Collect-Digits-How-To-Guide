@@ -1,6 +1,6 @@
-# Java - Collect Digits Tutorial
+# Java - Collect Digits How-To Guide
 
-This project serves as a guide to help you build an application with FreeClimb. View this turorial on [FreeClimb.com](https://docs.freeclimb.com/docs/collect-digits-1#section-java) Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this how-to guide on [FreeClimb.com](https://docs.freeclimb.com/docs/collect-digits-1#section-java) Specifically, the project will:
 
 - Get digits typed by the caller
 - Use their response to respond with the selection
@@ -9,7 +9,7 @@ This project serves as a guide to help you build an application with FreeClimb. 
 
 To get started using a FreeClimb account, follow the instructions [here](https://docs.freeclimb.com/docs/getting-started-with-freeclimb).
 
-## Setting up the Tutorial
+## Setting up the how-to guide
 
 1. Configure environment variables
 
@@ -17,7 +17,7 @@ To get started using a FreeClimb account, follow the instructions [here](https:/
    | ------------ | ---------------------------------- |
    | HOST         | URL where your app is being hosted |
 
-## Building and Runnning the Tutorial
+## Building and runnning the how-to guide
 
 1. Build and run the application using command:
 
